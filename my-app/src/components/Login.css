@@ -1,0 +1,18 @@
+.loginWrapper {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #d3d3d3;
+    border-radius: 0.5em;
+    padding: 1em;
+    width: 45%;
+  }
+  
+  .loginWrapper form {
+    padding: 1em;
+  }
+  
+  .loginWrapper label {
+    font-weight: 600;
+  }
